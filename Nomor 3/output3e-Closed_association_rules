@@ -1,0 +1,44 @@
+veil-type='p' ==> gill-attachment='f' #SUP: 7914 #CONF: 0.9741506646971935
+gill-attachment='f' ==> veil-type='p' #SUP: 7914 #CONF: 1.0
+gill-spacing='c' ==> veil-type='p' #SUP: 6812 #CONF: 1.0
+veil-color='w' ==> veil-type='p' #SUP: 7924 #CONF: 1.0
+veil-type='p' ==> veil-color='w' #SUP: 7924 #CONF: 0.9753815854258986
+ring-number='o' ==> veil-type='p' #SUP: 7488 #CONF: 1.0
+veil-type='p' veil-color='w' ==> gill-attachment='f' #SUP: 7906 #CONF: 0.9977284199899041
+gill-attachment='f' veil-color='w' ==> veil-type='p' #SUP: 7906 #CONF: 1.0
+gill-attachment='f' veil-type='p' ==> veil-color='w' #SUP: 7906 #CONF: 0.9989891331817033
+veil-color='w' ==> gill-attachment='f' veil-type='p' #SUP: 7906 #CONF: 0.9977284199899041
+veil-type='p' ==> gill-attachment='f' veil-color='w' #SUP: 7906 #CONF: 0.9731659281142294
+gill-attachment='f' ==> veil-type='p' veil-color='w' #SUP: 7906 #CONF: 0.9989891331817033
+veil-type='p' ring-number='o' ==> gill-attachment='f' #SUP: 7296 #CONF: 0.9743589743589743
+gill-attachment='f' ring-number='o' ==> veil-type='p' #SUP: 7296 #CONF: 1.0
+ring-number='o' ==> gill-attachment='f' veil-type='p' #SUP: 7296 #CONF: 0.9743589743589743
+gill-spacing='c' veil-color='w' ==> veil-type='p' #SUP: 6620 #CONF: 1.0
+gill-spacing='c' veil-type='p' ==> veil-color='w' #SUP: 6620 #CONF: 0.9718144450968879
+gill-spacing='c' ==> veil-type='p' veil-color='w' #SUP: 6620 #CONF: 0.9718144450968879
+gill-spacing='c' ring-number='o' ==> veil-type='p' #SUP: 6464 #CONF: 1.0
+gill-spacing='c' veil-type='p' veil-color='w' ==> gill-attachment='f' #SUP: 6602 #CONF: 0.9972809667673715
+gill-attachment='f' gill-spacing='c' veil-color='w' ==> veil-type='p' #SUP: 6602 #CONF: 1.0
+gill-attachment='f' gill-spacing='c' veil-type='p' ==> veil-color='w' #SUP: 6602 #CONF: 1.0
+gill-spacing='c' veil-color='w' ==> gill-attachment='f' veil-type='p' #SUP: 6602 #CONF: 0.9972809667673715
+gill-spacing='c' veil-type='p' ==> gill-attachment='f' veil-color='w' #SUP: 6602 #CONF: 0.9691720493247211
+gill-attachment='f' gill-spacing='c' ==> veil-type='p' veil-color='w' #SUP: 6602 #CONF: 1.0
+gill-spacing='c' ==> gill-attachment='f' veil-type='p' veil-color='w' #SUP: 6602 #CONF: 0.9691720493247211
+veil-type='p' veil-color='w' ring-number='o' ==> gill-attachment='f' #SUP: 7288 #CONF: 1.0
+gill-attachment='f' veil-color='w' ring-number='o' ==> veil-type='p' #SUP: 7288 #CONF: 1.0
+gill-attachment='f' veil-type='p' ring-number='o' ==> veil-color='w' #SUP: 7288 #CONF: 0.9989035087719298
+veil-color='w' ring-number='o' ==> gill-attachment='f' veil-type='p' #SUP: 7288 #CONF: 1.0
+veil-type='p' ring-number='o' ==> gill-attachment='f' veil-color='w' #SUP: 7288 #CONF: 0.9732905982905983
+gill-attachment='f' ring-number='o' ==> veil-type='p' veil-color='w' #SUP: 7288 #CONF: 0.9989035087719298
+ring-number='o' ==> gill-attachment='f' veil-type='p' veil-color='w' #SUP: 7288 #CONF: 0.9732905982905983
+gill-spacing='c' veil-type='p' veil-color='w' ring-number='o' ==> gill-attachment='f' #SUP: 6272 #CONF: 1.0
+gill-attachment='f' gill-spacing='c' veil-color='w' ring-number='o' ==> veil-type='p' #SUP: 6272 #CONF: 1.0
+gill-attachment='f' gill-spacing='c' veil-type='p' ring-number='o' ==> veil-color='w' #SUP: 6272 #CONF: 1.0
+gill-attachment='f' gill-spacing='c' veil-type='p' veil-color='w' ==> ring-number='o' #SUP: 6272 #CONF: 0.9500151469251742
+gill-spacing='c' veil-color='w' ring-number='o' ==> gill-attachment='f' veil-type='p' #SUP: 6272 #CONF: 1.0
+gill-spacing='c' veil-type='p' ring-number='o' ==> gill-attachment='f' veil-color='w' #SUP: 6272 #CONF: 0.9702970297029703
+gill-attachment='f' gill-spacing='c' ring-number='o' ==> veil-type='p' veil-color='w' #SUP: 6272 #CONF: 1.0
+gill-attachment='f' gill-spacing='c' veil-color='w' ==> veil-type='p' ring-number='o' #SUP: 6272 #CONF: 0.9500151469251742
+gill-attachment='f' gill-spacing='c' veil-type='p' ==> veil-color='w' ring-number='o' #SUP: 6272 #CONF: 0.9500151469251742
+gill-spacing='c' ring-number='o' ==> gill-attachment='f' veil-type='p' veil-color='w' #SUP: 6272 #CONF: 0.9702970297029703
+gill-attachment='f' gill-spacing='c' ==> veil-type='p' veil-color='w' ring-number='o' #SUP: 6272 #CONF: 0.9500151469251742

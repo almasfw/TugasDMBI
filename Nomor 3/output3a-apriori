@@ -1,0 +1,31 @@
+gill-attachment='f' #SUP: 7914
+gill-spacing='c' #SUP: 6812
+veil-type='p' #SUP: 8124
+veil-color='w' #SUP: 7924
+ring-number='o' #SUP: 7488
+gill-attachment='f' gill-spacing='c'  #SUP: 6602
+gill-attachment='f' veil-type='p'  #SUP: 7914
+gill-attachment='f' veil-color='w'  #SUP: 7906
+gill-attachment='f' ring-number='o'  #SUP: 7296
+gill-spacing='c' veil-type='p'  #SUP: 6812
+gill-spacing='c' veil-color='w'  #SUP: 6620
+gill-spacing='c' ring-number='o'  #SUP: 6464
+veil-type='p' veil-color='w'  #SUP: 7924
+veil-type='p' ring-number='o'  #SUP: 7488
+veil-color='w' ring-number='o'  #SUP: 7288
+gill-attachment='f' gill-spacing='c' veil-type='p'  #SUP: 6602
+gill-attachment='f' gill-spacing='c' veil-color='w'  #SUP: 6602
+gill-attachment='f' gill-spacing='c' ring-number='o'  #SUP: 6272
+gill-attachment='f' veil-type='p' veil-color='w'  #SUP: 7906
+gill-attachment='f' veil-type='p' ring-number='o'  #SUP: 7296
+gill-attachment='f' veil-color='w' ring-number='o'  #SUP: 7288
+gill-spacing='c' veil-type='p' veil-color='w'  #SUP: 6620
+gill-spacing='c' veil-type='p' ring-number='o'  #SUP: 6464
+gill-spacing='c' veil-color='w' ring-number='o'  #SUP: 6272
+veil-type='p' veil-color='w' ring-number='o'  #SUP: 7288
+gill-attachment='f' gill-spacing='c' veil-type='p' veil-color='w'  #SUP: 6602
+gill-attachment='f' gill-spacing='c' veil-type='p' ring-number='o'  #SUP: 6272
+gill-attachment='f' gill-spacing='c' veil-color='w' ring-number='o'  #SUP: 6272
+gill-attachment='f' veil-type='p' veil-color='w' ring-number='o'  #SUP: 7288
+gill-spacing='c' veil-type='p' veil-color='w' ring-number='o'  #SUP: 6272
+gill-attachment='f' gill-spacing='c' veil-type='p' veil-color='w' ring-number='o'  #SUP: 6272
